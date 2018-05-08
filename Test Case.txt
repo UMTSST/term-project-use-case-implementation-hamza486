@@ -1,0 +1,33 @@
+*/TESTING FOR TWITTER LIKE
+    
+void TestCase()
+    {
+        if(User_ID == "UMT@12345")
+        {
+            Twitter<<User_ID<<endl;
+
+        }
+        else
+            break;
+        if(Like == "Yes" || Like == "No")
+        {
+            Twitter<<Like<<endl;
+
+        }
+        else
+            return;
+            if(Time == "1:00:00 PM")
+        {
+            Twitter<<Time<<endl;
+
+        }
+        else
+            return;
+            if(Date == "5/8/2018")
+        {
+            Twitter<<Date<<endl;
+
+        }
+        else
+            return;
+    }
